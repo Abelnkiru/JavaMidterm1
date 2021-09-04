@@ -1,12 +1,19 @@
 ***ANSWER ALL QUESTIONS BELOW***
 
 Why do we need data structure?
-Answer:
+Answer: The needs of data structures include the following: efficiency, reusability, and invisibility. Data structure
+provides a means of organizing, managing, and storing data efficiently. It also includes the collection of data as well
+as the operations that can be applied to that data.
 
 What are the various operations that can be performed on different data structures?
-Answer:
+Answer: Insertion: Add a new data item in the given collection of data items.
+        Deletion: Delete an existing data item from the given collection of data items.
+        Traversal: Access each data item exactly once so that it can be processed.
+        Searching: Find out the location of the data item if it exists in the given collection of data items.
+        Sorting: Arranging the data items in some order i.e. in ascending or descending order in case of numerical data
+        and in dictionary order in case of alphanumeric data.
 
-When would we use data structures in the real world?
+
 Answer:
 
 What is an Array?
